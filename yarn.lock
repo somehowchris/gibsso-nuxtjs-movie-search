@@ -5621,7 +5621,7 @@ move-concurrently@^1.0.1:
 
 "moviedb-promise@https://github.com/somehowchris/moviedb-promise.git":
   version "3.0.2"
-  resolved "https://github.com/somehowchris/moviedb-promise.git#fb63be7ca384c012a8a258383bb26d5654ccf55b"
+  resolved "https://github.com/somehowchris/moviedb-promise.git#ca29615f841044fdf99646198954c861b4b8bac5"
   dependencies:
     axios "^0.19.2"
     lodash "^4.17.15"

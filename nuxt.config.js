@@ -4,6 +4,8 @@ const pkg = require('./package')
 module.exports = {
   mode: 'universal',
 
+  buildDir: './dist/',
+
   server: {
     port: 8080,
   },
