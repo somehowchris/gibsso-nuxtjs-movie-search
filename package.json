@@ -17,7 +17,7 @@
     "lodash": "^4.17.15",
     "moviedb-promise": "https://github.com/somehowchris/moviedb-promise.git",
     "nuxt": "^2.4.0",
-    "nuxt-i18n": "^6.11.0",
+    "nuxt-i18n": "^6.13.1",
     "plyr": "^3.6.2",
     "vue-infinite-loading": "^2.4.5",
     "vue-plyr": "^6.0.4"
